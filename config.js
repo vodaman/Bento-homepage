@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Upbeat',
+					link: 'https://music.youtube.com/playlist?list=RDATmb',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Default',
+					link: 'https://music.youtube.com/playlist?list=PLSfw-EF5uSseZgomv1LBRnBHatHVu0DW2',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Lock-in',
+					link: 'https://music.youtube.com/playlist?list=RDTMAK5uy_l3TXw3uC_sIHl4m6RMGqCyKKd2D2_pv28',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Sad :(',
+					link: 'https://music.youtube.com/playlist?list=RDCLAK5uy_lp8LtelM9GiSwRFGGQjctKaGoHcrgQVEU',
 				},
 			],
 		},
@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Discord',
+					link: 'https://discord.com',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Codewars',
+					link: 'https://codewars.com',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Classroom',
+					link: 'https://www.classroom.google.com/u/1',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Typing practice',
+					link: 'https://www.keybr.com/',
 				},
 			],
 		},
