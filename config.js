@@ -157,28 +157,28 @@ const CONFIG = {
 			],
 		},
 		{
-	// 		icon: 'coffee',
-	// 		id: '2',
-	// 		links: [
-	// 			{
-	// 				name: 'Discord',
-	// 				link: 'https://discord.com',
-	// 			},
-	// 			{
-	// 				name: 'Codewars',
-	// 				link: 'https://codewars.com',
-	// 			},
-	// 			{
-	// 				name: 'Classroom',
-	// 				link: 'https://www.classroom.google.com/u/1',
-	// 			},
-	// 			{
-	// 				name: 'Typing practice',
-	// 				link: 'https://www.keybr.com/',
-	// 			},
-	// 		],
-	// 	},
-	// ],
+			icon: 'coffee',
+			id: '2',
+			links: [
+				{
+					name: 'Discord',
+					link: 'https://discord.com',
+				},
+				{
+					name: 'Codewars',
+					link: 'https://codewars.com',
+				},
+				{
+					name: 'Classroom',
+					link: 'https://www.classroom.google.com/u/1',
+				},
+				{
+					name: 'Typing practice',
+					link: 'https://www.keybr.com/',
+				},
+			],
+		},
+	],
 
 	// Second Links Container
 	secondListsContainer: [
