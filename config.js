@@ -13,7 +13,7 @@ const CONFIG = {
 	// General
 	name: 'Vova',
 	imageBackground: false,
-	openInNewTab: true,
+	openInNewTab: false,
 	twelveHourFormat: false,
 
 	// Greetings
@@ -139,46 +139,46 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
+					name: 'Spotify',
+					link: 'https://open.spotify.com/',
+				},
+				{
 					name: 'Upbeat',
-					link: 'https://music.youtube.com/playlist?list=RDATmb',
+					link: 'https://open.spotify.com/playlist/37i9dQZF1EVJHK7Q1TBABQ',
 				},
 				{
-					name: 'Default',
-					link: 'https://music.youtube.com/playlist?list=PLSfw-EF5uSseZgomv1LBRnBHatHVu0DW2',
+					name: 'Classical',
+					link: 'https://open.spotify.com/playlist/5hdDBKLB9LDdMGhxpBNN35',
 				},
 				{
-					name: 'Lock-in',
-					link: 'https://music.youtube.com/playlist?list=RDTMAK5uy_l3TXw3uC_sIHl4m6RMGqCyKKd2D2_pv28',
-				},
-				{
-					name: 'Sad :(',
-					link: 'https://music.youtube.com/playlist?list=RDCLAK5uy_lp8LtelM9GiSwRFGGQjctKaGoHcrgQVEU',
+					name: 'Sad',
+					link: 'https://open.spotify.com/track/2oBd6KgXMeh0alqHHli0J4',
 				},
 			],
 		},
 		{
-			icon: 'coffee',
-			id: '2',
-			links: [
-				{
-					name: 'Discord',
-					link: 'https://discord.com',
-				},
-				{
-					name: 'Codewars',
-					link: 'https://codewars.com',
-				},
-				{
-					name: 'Classroom',
-					link: 'https://www.classroom.google.com/u/1',
-				},
-				{
-					name: 'Typing practice',
-					link: 'https://www.keybr.com/',
-				},
-			],
-		},
-	],
+	// 		icon: 'coffee',
+	// 		id: '2',
+	// 		links: [
+	// 			{
+	// 				name: 'Discord',
+	// 				link: 'https://discord.com',
+	// 			},
+	// 			{
+	// 				name: 'Codewars',
+	// 				link: 'https://codewars.com',
+	// 			},
+	// 			{
+	// 				name: 'Classroom',
+	// 				link: 'https://www.classroom.google.com/u/1',
+	// 			},
+	// 			{
+	// 				name: 'Typing practice',
+	// 				link: 'https://www.keybr.com/',
+	// 			},
+	// 		],
+	// 	},
+	// ],
 
 	// Second Links Container
 	secondListsContainer: [
